@@ -1,0 +1,12 @@
+﻿  SaveNoWorld.cpp
+C:\Users\josep\OneDrive\Documentos\UPC\UPC-Introducción a los Algoritmos\ProyectoSaveNoWorld_Beta\SaveNoWorldBeta\SaveNoWorld\SaveNoWorld\SaveNoWorld.cpp(1,1): warning C4005: '__CLR_VER': redefinición de macro
+C:\Users\josep\OneDrive\Documentos\UPC\UPC-Introducción a los Algoritmos\ProyectoSaveNoWorld_Beta\SaveNoWorldBeta\SaveNoWorld\SaveNoWorld\SaveNoWorld.cpp(1,1): message : '__CLR_VER' declarado previamente en la línea de comandos
+C:\Users\josep\OneDrive\Documentos\UPC\UPC-Introducción a los Algoritmos\ProyectoSaveNoWorld_Beta\SaveNoWorldBeta\SaveNoWorld\SaveNoWorld\SaveNoWorld.cpp(1,1): warning C4651: Se especificó '/D__CLR_VER=40809139' para el encabezado precompilado pero no para la compilación actual
+C:\Users\josep\OneDrive\Documentos\UPC\UPC-Introducción a los Algoritmos\ProyectoSaveNoWorld_Beta\SaveNoWorldBeta\SaveNoWorld\SaveNoWorld\Header.h(128,27): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\josep\OneDrive\Documentos\UPC\UPC-Introducción a los Algoritmos\ProyectoSaveNoWorld_Beta\SaveNoWorldBeta\SaveNoWorld\SaveNoWorld\Header.h(145,5): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\josep\OneDrive\Documentos\UPC\UPC-Introducción a los Algoritmos\ProyectoSaveNoWorld_Beta\SaveNoWorldBeta\SaveNoWorld\SaveNoWorld\Header.h(156,5): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\josep\OneDrive\Documentos\UPC\UPC-Introducción a los Algoritmos\ProyectoSaveNoWorld_Beta\SaveNoWorldBeta\SaveNoWorld\SaveNoWorld\Header.h(253,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+LINK : warning LNK4044: opción '/lwinmm' no reconocida; omitida
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+LINK : warning LNK4044: opción '/lwinmm' no reconocida; omitida
+  SaveNoWorld.vcxproj -> C:\Users\josep\OneDrive\Documentos\UPC\UPC-Introducción a los Algoritmos\ProyectoSaveNoWorld_Beta\SaveNoWorldBeta\SaveNoWorld\x64\Debug\SaveNoWorld.exe

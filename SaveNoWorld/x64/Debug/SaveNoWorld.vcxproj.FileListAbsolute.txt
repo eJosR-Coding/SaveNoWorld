@@ -1,0 +1,2 @@
+C:\Users\josep\OneDrive\Documentos\UPC\UPC-Introducción a los Algoritmos\ProyectoSaveNoWorld_Beta\SaveNoWorldBeta\SaveNoWorld\SaveNoWorld\x64\Debug\SaveNoWorld.vcxproj.AssemblyReference.cache
+C:\Users\josep\OneDrive\Documentos\UPC\UPC-Introducción a los Algoritmos\ProyectoSaveNoWorld_Beta\SaveNoWorldBeta\SaveNoWorld\SaveNoWorld\x64\Debug\SaveNoWorld.vcxproj.SuggestedBindingRedirects.cache
